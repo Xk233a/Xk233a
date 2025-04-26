@@ -20,6 +20,12 @@
 | 📡 Telegram | [@Xk233a](https://t.me/Xk233a) | 24小时赛博幽灵在线 |
 | ✍️ 博客 | [www.1fu.top](http://www.1fu.top) | 年更选手的思考碎片 |
 
+## 测试
+<div style="display: flex; justify-content: space-between; width: 100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Xk233a&include_all_commits=true&theme=rose&hide_border=true" style="width: 57%; height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xk233a&langs_count=8&layout=compact&theme=rose&hide_border=true" style="width: 39%; height: 200px;"/>
+</div>
+
 ## 🧪 技能实验室
 ```python
 class AboutMe:
@@ -33,8 +39,4 @@ class AboutMe:
     def say_hi(self):
         print("欢迎来我的GitHub摸鱼！")
 
-## 测试
-<div style="display: flex; justify-content: space-between; width: 100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xk233a&include_all_commits=true&theme=rose&hide_border=true" style="width: 57%; height: 200px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xk233a&langs_count=8&layout=compact&theme=rose&hide_border=true" style="width: 39%; height: 200px;"/>
-</div>
+
