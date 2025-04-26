@@ -32,6 +32,7 @@ class AboutMe:
     
     def say_hi(self):
         print("欢迎来我的GitHub摸鱼！")
+
 <div style="display: flex; justify-content: space-between; width: 100%">
   <img src="https://github-readme-stats.vercel.app/api?username=Xk233a&include_all_commits=true&theme=rose&hide_border=true" style="width: 57%; height: 200px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xk233a&langs_count=8&layout=compact&theme=rose&hide_border=true" style="width: 39%; height: 200px;"/>
