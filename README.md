@@ -23,6 +23,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Xk233a&include_all_commits=true&theme=rose&hide_border=true" style="width: 57%; height: 200px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xk233a&langs_count=8&layout=compact&theme=rose&hide_border=true" style="width: 39%; height: 200px;"/>
 </div>
-
-
+<p align="center"><img align="center" src="https://count.getloli.com/get/@Xk233a?theme=asoul"></p>
 
